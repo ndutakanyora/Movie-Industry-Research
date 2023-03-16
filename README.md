@@ -25,4 +25,4 @@ The preferred method of measuring a movie's success is through the number of vot
 Based on the top 5% average vote count on movies by genre:
 
 
-![blueprint](dsc-project-template\images\Top 20 Average Rating.png)
+image.png
