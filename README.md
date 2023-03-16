@@ -17,3 +17,10 @@ The project uses data from the zipped IM.db database to answer questions about m
 
 ## Data Preparation
 Data preparation involves cleaning and transforming the data to make it suitable for analysis, integrating data from multiple sources, and handling missing values or outliers. This ensures the accuracy and quality of the analysis. By dropping irrelevant variables and creating new ones, we focus on the important variables. Handling missing values and outliers reduces bias and improves reliability. Integrating data from multiple sources creates a more comprehensive dataset for a complete view of the problem.
+
+## Measure of success.
+The preferred method of measuring a movie's success is through the number of votes, which is more reliable than box office returns in the era of streaming. Research shows that there is a positive correlation between the number of votes and a movie's average rating, making it a good measure of success. The repository includes a list of contents, and instructions for using them are provided in the next section.
+
+## Results 
+Based on the top 5% average vote count on movies by genre:
+![blueprint](E:\Project 1\dsc-project-template\images\Top 20 Average Rating.png
