@@ -32,17 +32,11 @@ Adventure movies got the highest number of average votes.
 ![image](images/animation.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Of the top 10% best-performing movies, 287 out of 7,304, — or 3.93% — are animated.
+
+![image](images/mystery.png)
+
+Of the top 10% best-performing movies, 587 out of 6,716, are mysteries.
+
+## Conclusions
+Focus on producing movies in the top genres, which are Adventure, Fantasy, Sci-Fi, Animation, and Mystery. It is also important to consider other genres to prevent customers from switching to other streaming services.
