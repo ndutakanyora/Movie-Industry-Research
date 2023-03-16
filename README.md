@@ -1,4 +1,5 @@
-# Phase 1 Project Template - Minimum Viable Product (MVP)
+# MOVIE INDUSTRY RESEARCH.
+**Authors:** Susan Nduta Kanyora.
 
 ![blueprint](images/blueprint.png)
 
