@@ -26,3 +26,23 @@ Based on the top 5% average vote count on movies by genre:
 
 
 ![image](images/top_genres.png)
+Adventure movies got the highest number of average votes.
+
+
+![image](images/animation.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Of the top 10% best-performing movies, 287 out of 7,304, — or 3.93% — are animated.
